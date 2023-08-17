@@ -1,5 +1,5 @@
 <h1 align="center">Assalamualaikum 👋, I'm JUNED CHAUDHARY</h1>
-<h3 align="center">Software Engineer at PointPi-LEXI| Python | Flask | Django | Angular | Docker | PostgresSQL  <br> Mentor at Mumbai Coding Club</h3>
+<h3 align="center">Software Engineer at PointPi-LEXI | Python | Flask | SQLAlchemy | Django | Angular | Docker | PostgresSQL  <br> Mentor at Mumbai Coding Club</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcjunaidchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="jcjunaidchaudhary" /> </p>
 
