@@ -1,15 +1,15 @@
-<h1 align="center">Assalamualaikum 👋, I'm JUNED CHAUDHARY</h1>
+<h1 align="center">Salam 👋, I'm JUNED CHAUDHARY</h1>
 <h3 align="center">Software Engineer | Python | Flask | SQLAlchemy | Django | Angular | Docker | PostgresSQL  <br> Mentor at Mumbai Coding Club</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcjunaidchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="jcjunaidchaudhary" /> </p>
 
-- 🔭 I’m currently working on *OMR (Optical Mark Recognition) Scanner system*
+- 🔭 I’m currently working on *Rapid Project Management System*
 
 - 🌱 I’m currently learning *Angular, DSA*
 
 - 👨‍💻 All of my projects are available at [https://github.com/jcjunaidchaudhary](https://github.com/jcjunaidchaudhary)
 
-- 💬 Ask me about *Python, Flask, Django, Angular13, and JavaScript, SQL, SQLAlchemy*
+- 💬 Ask me about *Python, Flask, Django, Angular, PostreSQL, SQLAlchemy*
 
 - 📫 How to reach me **jc.juned.chaudhary@gmail.com**
 
