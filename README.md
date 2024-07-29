@@ -1,4 +1,4 @@
-<h1 align="center">Salam 👋, I'm JUNED CHAUDHARY</h1>
+<h1 align="center">Hi 👋, I'm JUNED CHAUDHARY</h1>
 <h3 align="center">Software Engineer | Python | Flask | SQLAlchemy | Django | Angular | Docker | PostgresSQL  <br> Mentor at Mumbai Coding Club</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcjunaidchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="jcjunaidchaudhary" /> </p>
